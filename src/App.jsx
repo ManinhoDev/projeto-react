@@ -10,6 +10,10 @@ function App() {
         <h1>Carlos Augusto</h1>
         <p>Tec de informática , cusrsando FullStack DSI PMERJ-FIRJAN</p>
       </header>
+        <p>
+          
+         
+      </p>
       
       <main>
         <h2>Sobre mim:</h2>
